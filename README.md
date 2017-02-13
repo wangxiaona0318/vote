@@ -39,7 +39,7 @@
 克隆项目
 
 ```
-> $ git clone https://git.coding.net/canfoo/vote.git
+> $ git clone https://github.com/wangxiaona0318/vote.git
 ```
 在vote目录下安装依赖包
 
